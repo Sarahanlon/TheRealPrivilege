@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/TheRealPrivilege/static/css/main.9ad3fa2a.chunk.css",
+    "main.js": "/TheRealPrivilege/static/js/main.16a0009d.chunk.js",
+    "main.js.map": "/TheRealPrivilege/static/js/main.16a0009d.chunk.js.map",
+    "runtime-main.js": "/TheRealPrivilege/static/js/runtime-main.f395baab.js",
+    "runtime-main.js.map": "/TheRealPrivilege/static/js/runtime-main.f395baab.js.map",
+    "static/js/2.9731ee82.chunk.js": "/TheRealPrivilege/static/js/2.9731ee82.chunk.js",
+    "static/js/2.9731ee82.chunk.js.map": "/TheRealPrivilege/static/js/2.9731ee82.chunk.js.map",
+    "static/js/3.d8d546e1.chunk.js": "/TheRealPrivilege/static/js/3.d8d546e1.chunk.js",
+    "static/js/3.d8d546e1.chunk.js.map": "/TheRealPrivilege/static/js/3.d8d546e1.chunk.js.map",
+    "index.html": "/TheRealPrivilege/index.html",
+    "precache-manifest.a120748c13cd461aaa0e0be9ab95b0c3.js": "/TheRealPrivilege/precache-manifest.a120748c13cd461aaa0e0be9ab95b0c3.js",
+    "service-worker.js": "/TheRealPrivilege/service-worker.js",
+    "static/css/main.9ad3fa2a.chunk.css.map": "/TheRealPrivilege/static/css/main.9ad3fa2a.chunk.css.map",
+    "static/js/2.9731ee82.chunk.js.LICENSE.txt": "/TheRealPrivilege/static/js/2.9731ee82.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f395baab.js",
+    "static/js/2.9731ee82.chunk.js",
+    "static/css/main.9ad3fa2a.chunk.css",
+    "static/js/main.16a0009d.chunk.js"
+  ]
+}
