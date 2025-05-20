@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "94b97da0c155fe8d5ba86db49e016839",
+    "revision": "709d96f0b7ed5e98c48e4cd69727f5d5",
     "url": "/TheRealPrivilege/index.html"
   },
   {
-    "revision": "97a82558ca730164c645",
+    "revision": "1c055e155541032fbbb4",
     "url": "/TheRealPrivilege/static/css/main.9ad3fa2a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TheRealPrivilege/static/js/3.d8d546e1.chunk.js"
   },
   {
-    "revision": "97a82558ca730164c645",
-    "url": "/TheRealPrivilege/static/js/main.ba1682d1.chunk.js"
+    "revision": "1c055e155541032fbbb4",
+    "url": "/TheRealPrivilege/static/js/main.708bb932.chunk.js"
   },
   {
     "revision": "c7d7ba210ac02641251a",
