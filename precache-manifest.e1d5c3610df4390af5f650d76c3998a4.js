@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "14d5dc3f445492060b5ff9ca85d3b679",
+    "revision": "c34ecb4aba9db9212ea96bba13901b27",
     "url": "/TheRealPrivilege/index.html"
   },
   {
-    "revision": "be93065be1cc31e86b2f",
+    "revision": "6890bb9f66d538a39e0e",
     "url": "/TheRealPrivilege/static/css/main.9ad3fa2a.chunk.css"
   },
   {
-    "revision": "905e68bf27c4c53db5ac",
-    "url": "/TheRealPrivilege/static/js/2.9731ee82.chunk.js"
+    "revision": "eaf0a90db7987e5ef0ca",
+    "url": "/TheRealPrivilege/static/js/2.75c6e3cb.chunk.js"
   },
   {
     "revision": "1eb98706859bae847c8762bbc3c10000",
-    "url": "/TheRealPrivilege/static/js/2.9731ee82.chunk.js.LICENSE.txt"
+    "url": "/TheRealPrivilege/static/js/2.75c6e3cb.chunk.js.LICENSE.txt"
   },
   {
     "revision": "402dc92077224e63aaf3",
     "url": "/TheRealPrivilege/static/js/3.d8d546e1.chunk.js"
   },
   {
-    "revision": "be93065be1cc31e86b2f",
-    "url": "/TheRealPrivilege/static/js/main.16a0009d.chunk.js"
+    "revision": "6890bb9f66d538a39e0e",
+    "url": "/TheRealPrivilege/static/js/main.36592865.chunk.js"
   },
   {
     "revision": "c7d7ba210ac02641251a",

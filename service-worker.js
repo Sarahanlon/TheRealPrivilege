@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/TheRealPrivilege/precache-manifest.a120748c13cd461aaa0e0be9ab95b0c3.js"
+  "/TheRealPrivilege/precache-manifest.e1d5c3610df4390af5f650d76c3998a4.js"
 );
 
 self.addEventListener('message', (event) => {
