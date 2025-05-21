@@ -1,24 +1,15 @@
 {
   "files": {
-    "main.css": "/TheRealPrivilege/static/css/main.9ad3fa2a.chunk.css",
-    "main.js": "/TheRealPrivilege/static/js/main.708bb932.chunk.js",
-    "main.js.map": "/TheRealPrivilege/static/js/main.708bb932.chunk.js.map",
-    "runtime-main.js": "/TheRealPrivilege/static/js/runtime-main.f395baab.js",
-    "runtime-main.js.map": "/TheRealPrivilege/static/js/runtime-main.f395baab.js.map",
-    "static/js/2.d3712d44.chunk.js": "/TheRealPrivilege/static/js/2.d3712d44.chunk.js",
-    "static/js/2.d3712d44.chunk.js.map": "/TheRealPrivilege/static/js/2.d3712d44.chunk.js.map",
-    "static/js/3.d8d546e1.chunk.js": "/TheRealPrivilege/static/js/3.d8d546e1.chunk.js",
-    "static/js/3.d8d546e1.chunk.js.map": "/TheRealPrivilege/static/js/3.d8d546e1.chunk.js.map",
+    "main.css": "/TheRealPrivilege/static/css/main.2daf6acf.css",
+    "main.js": "/TheRealPrivilege/static/js/main.dcdd4a08.js",
+    "static/js/453.20eb7ae3.chunk.js": "/TheRealPrivilege/static/js/453.20eb7ae3.chunk.js",
     "index.html": "/TheRealPrivilege/index.html",
-    "precache-manifest.7842268c1c3c65710aafe286c48e1be5.js": "/TheRealPrivilege/precache-manifest.7842268c1c3c65710aafe286c48e1be5.js",
-    "service-worker.js": "/TheRealPrivilege/service-worker.js",
-    "static/css/main.9ad3fa2a.chunk.css.map": "/TheRealPrivilege/static/css/main.9ad3fa2a.chunk.css.map",
-    "static/js/2.d3712d44.chunk.js.LICENSE.txt": "/TheRealPrivilege/static/js/2.d3712d44.chunk.js.LICENSE.txt"
+    "main.2daf6acf.css.map": "/TheRealPrivilege/static/css/main.2daf6acf.css.map",
+    "main.dcdd4a08.js.map": "/TheRealPrivilege/static/js/main.dcdd4a08.js.map",
+    "453.20eb7ae3.chunk.js.map": "/TheRealPrivilege/static/js/453.20eb7ae3.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.f395baab.js",
-    "static/js/2.d3712d44.chunk.js",
-    "static/css/main.9ad3fa2a.chunk.css",
-    "static/js/main.708bb932.chunk.js"
+    "static/css/main.2daf6acf.css",
+    "static/js/main.dcdd4a08.js"
   ]
 }
